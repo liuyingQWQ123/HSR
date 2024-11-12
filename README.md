@@ -1,0 +1,2 @@
+HSR
+Game client download
